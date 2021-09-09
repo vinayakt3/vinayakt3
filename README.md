@@ -1,1 +1,1 @@
-![alt text](giphy.webp)
+![alt text](vin.svg)
