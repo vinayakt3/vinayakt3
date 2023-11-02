@@ -52,7 +52,7 @@
            style="font-variant:normal;font-weight:regular;font-size:18px;font-family:sans-serif;writing-mode:lr-tb;fill:#639231;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,75.024,710.98)"><tspan
              id="tspan20"
-             y="78px"
+             y="-78px"
              x="-150px">Vinayak could look slow</tspan></text>
 </g>
 <animateTransform repeatCount="indefinite" attributeName="transform" type="rotate"
