@@ -73,7 +73,7 @@
            transform="matrix(1,0,0,-1,75.024,710.98)"><tspan
              id="tspan20"
              y="10px"
-             x="10px">But</tspan></text>
+             x="20px">But</tspan></text>
 </g>
 <animateTransform repeatCount="indefinite" attributeName="transform" type="rotate"
 	values="0 0 0; 1 1 0; 0 0 0" dur="3s" />
