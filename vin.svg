@@ -94,7 +94,7 @@
            transform="matrix(1,0,0,-1,75.024,710.98)"><tspan
              id="tspan20"
              y="78px"
-             x="55px">is cheetah when he codes</tspan></text>
+             x="55px"></tspan></text>
 </g>
 <animateTransform repeatCount="indefinite" attributeName="transform" type="rotate"
 	values="0 1 1; -1 1 1; 0 1 2" dur="3s" />
